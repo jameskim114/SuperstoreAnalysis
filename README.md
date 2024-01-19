@@ -1,4 +1,4 @@
-# SuperstoreAnalysis
+# Superstore Sales Analysis
 
 ## Project Description
 To conclude my Data Analytics Certificate with BrainStation, my colleagues and I were tasked with finding, cleaning, analyzing, and visualizing a dataset of our choice. In line with our interests and career goals, we took sales data from an online office supplies retailer (found on Kaggle) and created a hypothetical scenario surrounding it. As data analysts of the Superstore, we were tasked to find an optimal location for our first in-person store launch. 
@@ -14,5 +14,7 @@ Big shoutout to my group members: Andrew, Jayden, and Suganya. I had a blast wor
 
 ## Tools Used
 **MySQL** - Data cleaning, exploration, and analysis
+
 **Tableau** - Data visualization 
+
 **Google Slides** - Data sharing  
