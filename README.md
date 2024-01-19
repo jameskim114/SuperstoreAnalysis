@@ -5,7 +5,8 @@ To conclude my Data Analytics Certificate with BrainStation, my colleagues and I
 
 All of the details of this project, from the scenario to our final conclusions, can be found in this [Google Slides Presentation](https://docs.google.com/presentation/d/1APxvMKjTnznA0EEGU8xtdQFzLBNTGqUfuXl7RCE51-c/edit?usp=sharing). Please refer to the speaker notes for full details and a walkthrough of each step in the process!  
 
-Big shoutout to Andrew, Jayden, and Suganya, you guys made this project so enjoyable to do :) 
+
+Big shoutout to my group members: Andrew, Jayden, and Suganya. I had a blast working together on this project :) 
 
 ## Dataset
 [Superstore Sales Dataset](https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sales)
